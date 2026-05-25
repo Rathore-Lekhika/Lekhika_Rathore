@@ -12,13 +12,13 @@
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-## 👋 Hi, I'm Gaurav Kumar
+## 👋 Hi, I'm Lekhika Rathore
 
 - 🔭 Building **Scalable Backend Systems using Spring Boot**
 - 🌱 Learning **System Design, Kafka, Redis, Docker**
 - 💡 Strong in **REST API Development & Database Design**
 - 👯 Open to collaborate on **Backend / Microservices Projects**
-- 📫 Email: **gk0215312@gmail.com**
+- 📫 Email: **rathorelekhika1809@gmail.com**
 - ⚡ Fun fact: **I turn coffee into clean backend code ☕**
 
 <br clear="right"/>
@@ -28,7 +28,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauravavailable&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rathore-Lekhika&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </p>
 
 ---
