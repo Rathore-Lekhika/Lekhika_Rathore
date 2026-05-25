@@ -152,7 +152,7 @@
 
 <br/>
 
-### 🔹 Smart Automation Engine
+### 🔹Automation Engine
 > 💡 Workflow-based backend system using **Spring Boot + JPA**
 
 ```
