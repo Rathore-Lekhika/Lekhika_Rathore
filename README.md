@@ -234,7 +234,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav%20Kumar-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/lekhika-rathore-78b9a6382)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lekhika%20Rathore-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/lekhika-rathore-78b9a6382)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathorelekhika1809@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Rathore-Lekhika-181717?style=for-the-badge&logo=github)](https://github.com/Rathore-Lekhika)
 
