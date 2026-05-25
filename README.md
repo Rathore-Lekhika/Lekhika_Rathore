@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6DB33F&height=220&section=header&text=Gaurav%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descSize=18&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6DB33F&height=220&section=header&text=Lekhika%20Rathore&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descSize=18&descAlignY=58&animation=fadeIn" />
 </p>
 
 <div align="center">
@@ -188,15 +188,15 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gauravavailable&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rathore-Lekhika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravavailable&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathore-Lekhika&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gauravavailable&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Rathore-Lekhika&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -205,7 +205,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravavailable&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathore-Lekhika&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
@@ -214,7 +214,7 @@
 
 <div align="center">
 
-![snake gif](https://github.com/gauravavailable/gauravavailable/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Rathore-Lekhika/Rathore-Lekhika/blob/output/github-snake-dark.svg)
 
 </div>
 
@@ -236,7 +236,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gaurav-kumar-330859223/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gk0215312@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-gauravavailable-181717?style=for-the-badge&logo=github)](https://github.com/gauravavailable)
+[![GitHub](https://img.shields.io/badge/GitHub-gauravavailable-181717?style=for-the-badge&logo=github)](https://github.com/Rathore-Lekhika)
 
 </div>
 
@@ -244,7 +244,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=gauravavailable&color=36BCF7&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Rathore-Lekhika&color=36BCF7&style=for-the-badge&label=Profile+Views)
 
 ### 🚀 "Building scalable backend systems with clean code"
 
