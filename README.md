@@ -208,15 +208,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathore-Lekhika&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Rathore-Lekhika/Rathore-Lekhika/blob/output/github-snake-dark.svg)
-
-</div>
 
 ---
 
